@@ -1,0 +1,21 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname="helvetica"] ;
+edge [fontname="helvetica"] ;
+0 [label="gender_code <= 0.5\ngini = 0.796\nsamples = 17\nvalue = [4, 3, 4, 3, 3]\nclass = Finances", fillcolor="#ffffff"] ;
+1 [label="gini = 0.0\nsamples = 4\nvalue = [4, 0, 0, 0, 0]\nclass = Finances", fillcolor="#e58139"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="gender_code <= 2.5\ngini = 0.746\nsamples = 13\nvalue = [0, 3, 4, 3, 3]\nclass = Learning", fillcolor="#ebfcf9"] ;
+0 -> 2 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+3 [label="partsOfTheDay_code <= 1.5\ngini = 0.667\nsamples = 9\nvalue = [0, 3, 0, 3, 3]\nclass = Health", fillcolor="#ffffff"] ;
+2 -> 3 ;
+4 [label="gini = 0.0\nsamples = 3\nvalue = [0, 0, 0, 3, 0]\nclass = Productivity", fillcolor="#3c39e5"] ;
+3 -> 4 ;
+5 [label="ageGeneration_code <= 1.0\ngini = 0.5\nsamples = 6\nvalue = [0, 3, 0, 0, 3]\nclass = Health", fillcolor="#ffffff"] ;
+3 -> 5 ;
+6 [label="gini = 0.0\nsamples = 3\nvalue = [0, 0, 0, 0, 3]\nclass = Social", fillcolor="#e539c0"] ;
+5 -> 6 ;
+7 [label="gini = 0.0\nsamples = 3\nvalue = [0, 3, 0, 0, 0]\nclass = Health", fillcolor="#7be539"] ;
+5 -> 7 ;
+8 [label="gini = 0.0\nsamples = 4\nvalue = [0, 0, 4, 0, 0]\nclass = Learning", fillcolor="#39e5c5"] ;
+2 -> 8 ;
+}

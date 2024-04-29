@@ -1,0 +1,917 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2310pt" height="1107pt" viewBox="0.00 0.00 2310.25 1107.20">
+<g id="graph0" class="graph" transform="translate(4,1103.199951171875) scale(1)" data-name="Tree">
+
+<polygon fill="white" stroke="none" points="-4,4 -4,-1103.2 2306.25,-1103.2 2306.25,4 -4,4" style=""/>
+<!-- 0 -->
+<g id="node1" class="node" pointer-events="visible" data-name="0">
+
+<path fill="#ffffff" stroke="black" d="M1576.81,-1099.2C1576.81,-1099.2 1418.44,-1099.2 1418.44,-1099.2 1412.44,-1099.2 1406.44,-1093.2 1406.44,-1087.2 1406.44,-1087.2 1406.44,-1019.2 1406.44,-1019.2 1406.44,-1013.2 1412.44,-1007.2 1418.44,-1007.2 1418.44,-1007.2 1576.81,-1007.2 1576.81,-1007.2 1582.81,-1007.2 1588.81,-1013.2 1588.81,-1019.2 1588.81,-1019.2 1588.81,-1087.2 1588.81,-1087.2 1588.81,-1093.2 1582.81,-1099.2 1576.81,-1099.2" style=""/>
+<text text-anchor="middle" x="1497.63" y="-1082.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">category &lt;= 3.5</text>
+<text text-anchor="middle" x="1497.63" y="-1065.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.799</text>
+<text text-anchor="middle" x="1497.63" y="-1049" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 80</text>
+<text text-anchor="middle" x="1497.63" y="-1032.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [17, 14, 17, 15, 17]</text>
+<text text-anchor="middle" x="1497.63" y="-1015.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Finances</text>
+</g>
+<!-- 1 -->
+<g id="node2" class="node" pointer-events="visible" data-name="1">
+
+<path fill="#fffbfe" stroke="black" d="M1328.81,-971.2C1328.81,-971.2 1170.44,-971.2 1170.44,-971.2 1164.44,-971.2 1158.44,-965.2 1158.44,-959.2 1158.44,-959.2 1158.44,-891.2 1158.44,-891.2 1158.44,-885.2 1164.44,-879.2 1170.44,-879.2 1170.44,-879.2 1328.81,-879.2 1328.81,-879.2 1334.81,-879.2 1340.81,-885.2 1340.81,-891.2 1340.81,-891.2 1340.81,-959.2 1340.81,-959.2 1340.81,-965.2 1334.81,-971.2 1328.81,-971.2" style=""/>
+<text text-anchor="middle" x="1249.63" y="-954.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">ageGeneration &lt;= 0.5</text>
+<text text-anchor="middle" x="1249.63" y="-937.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.795</text>
+<text text-anchor="middle" x="1249.63" y="-921" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 67</text>
+<text text-anchor="middle" x="1249.63" y="-904.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [12, 10, 15, 14, 16]</text>
+<text text-anchor="middle" x="1249.63" y="-887.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Social</text>
+</g>
+<!-- 0&#45;&gt;1 -->
+<g id="edge1" class="edge" data-name="0-&gt;1">
+
+<path fill="none" stroke="black" d="M1408.09,-1006.71C1388.95,-996.99 1368.62,-986.66 1349.13,-976.76" style=""/>
+<polygon fill="black" stroke="black" points="1350.88,-973.72 1340.38,-972.31 1347.71,-979.96 1350.88,-973.72" style=""/>
+<text text-anchor="middle" x="1346.78" y="-991.19" font-family="Helvetica,sans-Serif" font-size="14.00" style="">True</text>
+</g>
+<!-- 50 -->
+<g id="node51" class="node" pointer-events="visible" data-name="50">
+
+<path fill="#fcf1e9" stroke="black" d="M1886.85,-971.2C1886.85,-971.2 1758.41,-971.2 1758.41,-971.2 1752.41,-971.2 1746.41,-965.2 1746.41,-959.2 1746.41,-959.2 1746.41,-891.2 1746.41,-891.2 1746.41,-885.2 1752.41,-879.2 1758.41,-879.2 1758.41,-879.2 1886.85,-879.2 1886.85,-879.2 1892.85,-879.2 1898.85,-885.2 1898.85,-891.2 1898.85,-891.2 1898.85,-959.2 1898.85,-959.2 1898.85,-965.2 1892.85,-971.2 1886.85,-971.2" style=""/>
+<text text-anchor="middle" x="1822.63" y="-954.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">ageGeneration &lt;= 1.5</text>
+<text text-anchor="middle" x="1822.63" y="-937.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.722</text>
+<text text-anchor="middle" x="1822.63" y="-921" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 13</text>
+<text text-anchor="middle" x="1822.63" y="-904.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [5, 4, 2, 1, 1]</text>
+<text text-anchor="middle" x="1822.63" y="-887.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Finances</text>
+</g>
+<!-- 0&#45;&gt;50 -->
+<g id="edge50" class="edge" data-name="0-&gt;50">
+
+<path fill="none" stroke="black" d="M1589.02,-1016.77C1634.82,-999.01 1690.01,-977.61 1735.24,-960.08" style=""/>
+<polygon fill="black" stroke="black" points="1736.45,-963.36 1744.5,-956.49 1733.92,-956.84 1736.45,-963.36" style=""/>
+<text text-anchor="middle" x="1735.82" y="-974.61" font-family="Helvetica,sans-Serif" font-size="14.00" style="">False</text>
+</g>
+<!-- 2 -->
+<g id="node3" class="node" pointer-events="visible" data-name="2">
+
+<path fill="#fdf4ed" stroke="black" d="M649.38,-843.2C649.38,-843.2 529.87,-843.2 529.87,-843.2 523.87,-843.2 517.87,-837.2 517.87,-831.2 517.87,-831.2 517.87,-763.2 517.87,-763.2 517.87,-757.2 523.87,-751.2 529.87,-751.2 529.87,-751.2 649.38,-751.2 649.38,-751.2 655.38,-751.2 661.38,-757.2 661.38,-763.2 661.38,-763.2 661.38,-831.2 661.38,-831.2 661.38,-837.2 655.38,-843.2 649.38,-843.2" style=""/>
+<text text-anchor="middle" x="589.63" y="-826.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gender &lt;= 0.5</text>
+<text text-anchor="middle" x="589.63" y="-809.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.729</text>
+<text text-anchor="middle" x="589.63" y="-793" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 15</text>
+<text text-anchor="middle" x="589.63" y="-776.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [5, 2, 0, 4, 4]</text>
+<text text-anchor="middle" x="589.63" y="-759.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Finances</text>
+</g>
+<!-- 1&#45;&gt;2 -->
+<g id="edge2" class="edge" data-name="1-&gt;2">
+
+<path fill="none" stroke="black" d="M1158.2,-906.75C1029.5,-882.18 796.8,-837.75 672.75,-814.07" style=""/>
+<polygon fill="black" stroke="black" points="673.43,-810.64 662.95,-812.2 672.11,-817.51 673.43,-810.64" style=""/>
+</g>
+<!-- 9 -->
+<g id="node10" class="node" pointer-events="visible" data-name="9">
+
+<path fill="#f0fdfb" stroke="black" d="M1320.74,-843.2C1320.74,-843.2 1178.52,-843.2 1178.52,-843.2 1172.52,-843.2 1166.52,-837.2 1166.52,-831.2 1166.52,-831.2 1166.52,-763.2 1166.52,-763.2 1166.52,-757.2 1172.52,-751.2 1178.52,-751.2 1178.52,-751.2 1320.74,-751.2 1320.74,-751.2 1326.74,-751.2 1332.74,-757.2 1332.74,-763.2 1332.74,-763.2 1332.74,-831.2 1332.74,-831.2 1332.74,-837.2 1326.74,-843.2 1320.74,-843.2" style=""/>
+<text text-anchor="middle" x="1249.63" y="-826.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">category &lt;= 2.5</text>
+<text text-anchor="middle" x="1249.63" y="-809.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.785</text>
+<text text-anchor="middle" x="1249.63" y="-793" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 52</text>
+<text text-anchor="middle" x="1249.63" y="-776.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [7, 8, 15, 10, 12]</text>
+<text text-anchor="middle" x="1249.63" y="-759.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Learning</text>
+</g>
+<!-- 1&#45;&gt;9 -->
+<g id="edge9" class="edge" data-name="1-&gt;9">
+
+<path fill="none" stroke="black" d="M1249.63,-878.71C1249.63,-871.04 1249.63,-862.99 1249.63,-855.07" style=""/>
+<polygon fill="black" stroke="black" points="1253.13,-855.14 1249.63,-845.14 1246.13,-855.14 1253.13,-855.14" style=""/>
+</g>
+<!-- 3 -->
+<g id="node4" class="node" pointer-events="visible" data-name="3">
+
+<path fill="#fbeade" stroke="black" d="M408.38,-715.2C408.38,-715.2 288.87,-715.2 288.87,-715.2 282.87,-715.2 276.87,-709.2 276.87,-703.2 276.87,-703.2 276.87,-635.2 276.87,-635.2 276.87,-629.2 282.87,-623.2 288.87,-623.2 288.87,-623.2 408.38,-623.2 408.38,-623.2 414.38,-623.2 420.38,-629.2 420.38,-635.2 420.38,-635.2 420.38,-703.2 420.38,-703.2 420.38,-709.2 414.38,-715.2 408.38,-715.2" style=""/>
+<text text-anchor="middle" x="348.63" y="-698.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">category &lt;= 0.5</text>
+<text text-anchor="middle" x="348.63" y="-681.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.642</text>
+<text text-anchor="middle" x="348.63" y="-665" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 9</text>
+<text text-anchor="middle" x="348.63" y="-648.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [4, 0, 0, 2, 3]</text>
+<text text-anchor="middle" x="348.63" y="-631.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Finances</text>
+</g>
+<!-- 2&#45;&gt;3 -->
+<g id="edge3" class="edge" data-name="2-&gt;3">
+
+<path fill="none" stroke="black" d="M517.64,-758.57C490.22,-744.23 458.78,-727.79 430.51,-713.01" style=""/>
+<polygon fill="black" stroke="black" points="432.48,-710.09 421.99,-708.56 429.23,-716.29 432.48,-710.09" style=""/>
+</g>
+<!-- 6 -->
+<g id="node7" class="node" pointer-events="visible" data-name="6">
+
+<path fill="#ffffff" stroke="black" d="M649.38,-715.2C649.38,-715.2 529.87,-715.2 529.87,-715.2 523.87,-715.2 517.87,-709.2 517.87,-703.2 517.87,-703.2 517.87,-635.2 517.87,-635.2 517.87,-629.2 523.87,-623.2 529.87,-623.2 529.87,-623.2 649.38,-623.2 649.38,-623.2 655.38,-623.2 661.38,-629.2 661.38,-635.2 661.38,-635.2 661.38,-703.2 661.38,-703.2 661.38,-709.2 655.38,-715.2 649.38,-715.2" style=""/>
+<text text-anchor="middle" x="589.63" y="-698.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">category &lt;= 1.0</text>
+<text text-anchor="middle" x="589.63" y="-681.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.722</text>
+<text text-anchor="middle" x="589.63" y="-665" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 6</text>
+<text text-anchor="middle" x="589.63" y="-648.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [1, 2, 0, 2, 1]</text>
+<text text-anchor="middle" x="589.63" y="-631.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Health</text>
+</g>
+<!-- 2&#45;&gt;6 -->
+<g id="edge6" class="edge" data-name="2-&gt;6">
+
+<path fill="none" stroke="black" d="M589.63,-750.71C589.63,-743.04 589.63,-734.99 589.63,-727.07" style=""/>
+<polygon fill="black" stroke="black" points="593.13,-727.14 589.63,-717.14 586.13,-727.14 593.13,-727.14" style=""/>
+</g>
+<!-- 4 -->
+<g id="node5" class="node" pointer-events="visible" data-name="4">
+
+<path fill="#f8ceef" stroke="black" d="M247.38,-578.9C247.38,-578.9 127.87,-578.9 127.87,-578.9 121.87,-578.9 115.87,-572.9 115.87,-566.9 115.87,-566.9 115.87,-515.5 115.87,-515.5 115.87,-509.5 121.87,-503.5 127.87,-503.5 127.87,-503.5 247.38,-503.5 247.38,-503.5 253.38,-503.5 259.38,-509.5 259.38,-515.5 259.38,-515.5 259.38,-566.9 259.38,-566.9 259.38,-572.9 253.38,-578.9 247.38,-578.9" style=""/>
+<text text-anchor="middle" x="187.63" y="-562.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.611</text>
+<text text-anchor="middle" x="187.63" y="-545.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 6</text>
+<text text-anchor="middle" x="187.63" y="-528.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [1, 0, 0, 2, 3]</text>
+<text text-anchor="middle" x="187.63" y="-511.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Social</text>
+</g>
+<!-- 3&#45;&gt;4 -->
+<g id="edge4" class="edge" data-name="3-&gt;4">
+
+<path fill="none" stroke="black" d="M290.5,-622.71C275.29,-610.81 258.92,-598 243.82,-586.18" style=""/>
+<polygon fill="black" stroke="black" points="246.31,-583.68 236.28,-580.28 242,-589.2 246.31,-583.68" style=""/>
+</g>
+<!-- 5 -->
+<g id="node6" class="node" pointer-events="visible" data-name="5">
+
+<path fill="#e58139" stroke="black" d="M408.38,-578.9C408.38,-578.9 288.87,-578.9 288.87,-578.9 282.87,-578.9 276.87,-572.9 276.87,-566.9 276.87,-566.9 276.87,-515.5 276.87,-515.5 276.87,-509.5 282.87,-503.5 288.87,-503.5 288.87,-503.5 408.38,-503.5 408.38,-503.5 414.38,-503.5 420.38,-509.5 420.38,-515.5 420.38,-515.5 420.38,-566.9 420.38,-566.9 420.38,-572.9 414.38,-578.9 408.38,-578.9" style=""/>
+<text text-anchor="middle" x="348.63" y="-562.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.0</text>
+<text text-anchor="middle" x="348.63" y="-545.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 3</text>
+<text text-anchor="middle" x="348.63" y="-528.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [3, 0, 0, 0, 0]</text>
+<text text-anchor="middle" x="348.63" y="-511.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Finances</text>
+</g>
+<!-- 3&#45;&gt;5 -->
+<g id="edge5" class="edge" data-name="3-&gt;5">
+
+<path fill="none" stroke="black" d="M348.63,-622.71C348.63,-612.25 348.63,-601.1 348.63,-590.53" style=""/>
+<polygon fill="black" stroke="black" points="352.13,-590.86 348.63,-580.86 345.13,-590.86 352.13,-590.86" style=""/>
+</g>
+<!-- 7 -->
+<g id="node8" class="node" pointer-events="visible" data-name="7">
+
+<path fill="#ffffff" stroke="black" d="M569.38,-578.9C569.38,-578.9 449.87,-578.9 449.87,-578.9 443.87,-578.9 437.87,-572.9 437.87,-566.9 437.87,-566.9 437.87,-515.5 437.87,-515.5 437.87,-509.5 443.87,-503.5 449.87,-503.5 449.87,-503.5 569.38,-503.5 569.38,-503.5 575.38,-503.5 581.38,-509.5 581.38,-515.5 581.38,-515.5 581.38,-566.9 581.38,-566.9 581.38,-572.9 575.38,-578.9 569.38,-578.9" style=""/>
+<text text-anchor="middle" x="509.63" y="-562.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.667</text>
+<text text-anchor="middle" x="509.63" y="-545.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 3</text>
+<text text-anchor="middle" x="509.63" y="-528.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [1, 1, 0, 1, 0]</text>
+<text text-anchor="middle" x="509.63" y="-511.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Finances</text>
+</g>
+<!-- 6&#45;&gt;7 -->
+<g id="edge7" class="edge" data-name="6-&gt;7">
+
+<path fill="none" stroke="black" d="M560.74,-622.71C553.75,-611.7 546.27,-599.91 539.24,-588.84" style=""/>
+<polygon fill="black" stroke="black" points="542.34,-587.19 534.02,-580.62 536.43,-590.94 542.34,-587.19" style=""/>
+</g>
+<!-- 8 -->
+<g id="node9" class="node" pointer-events="visible" data-name="8">
+
+<path fill="#ffffff" stroke="black" d="M730.38,-578.9C730.38,-578.9 610.87,-578.9 610.87,-578.9 604.87,-578.9 598.87,-572.9 598.87,-566.9 598.87,-566.9 598.87,-515.5 598.87,-515.5 598.87,-509.5 604.87,-503.5 610.87,-503.5 610.87,-503.5 730.38,-503.5 730.38,-503.5 736.38,-503.5 742.38,-509.5 742.38,-515.5 742.38,-515.5 742.38,-566.9 742.38,-566.9 742.38,-572.9 736.38,-578.9 730.38,-578.9" style=""/>
+<text text-anchor="middle" x="670.63" y="-562.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.667</text>
+<text text-anchor="middle" x="670.63" y="-545.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 3</text>
+<text text-anchor="middle" x="670.63" y="-528.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [0, 1, 0, 1, 1]</text>
+<text text-anchor="middle" x="670.63" y="-511.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Health</text>
+</g>
+<!-- 6&#45;&gt;8 -->
+<g id="edge8" class="edge" data-name="6-&gt;8">
+
+<path fill="none" stroke="black" d="M618.87,-622.71C625.95,-611.7 633.53,-599.91 640.64,-588.84" style=""/>
+<polygon fill="black" stroke="black" points="643.47,-590.92 645.93,-580.62 637.58,-587.14 643.47,-590.92" style=""/>
+</g>
+<!-- 10 -->
+<g id="node11" class="node" pointer-events="visible" data-name="10">
+
+<path fill="#f3fdfc" stroke="black" d="M1232.95,-715.2C1232.95,-715.2 1098.3,-715.2 1098.3,-715.2 1092.3,-715.2 1086.3,-709.2 1086.3,-703.2 1086.3,-703.2 1086.3,-635.2 1086.3,-635.2 1086.3,-629.2 1092.3,-623.2 1098.3,-623.2 1098.3,-623.2 1232.95,-623.2 1232.95,-623.2 1238.95,-623.2 1244.95,-629.2 1244.95,-635.2 1244.95,-635.2 1244.95,-703.2 1244.95,-703.2 1244.95,-709.2 1238.95,-715.2 1232.95,-715.2" style=""/>
+<text text-anchor="middle" x="1165.63" y="-698.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gender &lt;= 0.5</text>
+<text text-anchor="middle" x="1165.63" y="-681.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.79</text>
+<text text-anchor="middle" x="1165.63" y="-665" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 44</text>
+<text text-anchor="middle" x="1165.63" y="-648.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [7, 8, 12, 7, 10]</text>
+<text text-anchor="middle" x="1165.63" y="-631.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Learning</text>
+</g>
+<!-- 9&#45;&gt;10 -->
+<g id="edge10" class="edge" data-name="9-&gt;10">
+
+<path fill="none" stroke="black" d="M1219.3,-750.71C1213.77,-742.41 1207.94,-733.68 1202.25,-725.14" style=""/>
+<polygon fill="black" stroke="black" points="1205.21,-723.26 1196.75,-716.88 1199.38,-727.14 1205.21,-723.26" style=""/>
+</g>
+<!-- 43 -->
+<g id="node44" class="node" pointer-events="visible" data-name="43">
+
+<path fill="#ffffff" stroke="black" d="M1475.38,-715.2C1475.38,-715.2 1355.87,-715.2 1355.87,-715.2 1349.87,-715.2 1343.87,-709.2 1343.87,-703.2 1343.87,-703.2 1343.87,-635.2 1343.87,-635.2 1343.87,-629.2 1349.87,-623.2 1355.87,-623.2 1355.87,-623.2 1475.38,-623.2 1475.38,-623.2 1481.38,-623.2 1487.38,-629.2 1487.38,-635.2 1487.38,-635.2 1487.38,-703.2 1487.38,-703.2 1487.38,-709.2 1481.38,-715.2 1475.38,-715.2" style=""/>
+<text text-anchor="middle" x="1415.63" y="-698.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gender &lt;= 0.5</text>
+<text text-anchor="middle" x="1415.63" y="-681.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.656</text>
+<text text-anchor="middle" x="1415.63" y="-665" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 8</text>
+<text text-anchor="middle" x="1415.63" y="-648.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [0, 0, 3, 3, 2]</text>
+<text text-anchor="middle" x="1415.63" y="-631.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Learning</text>
+</g>
+<!-- 9&#45;&gt;43 -->
+<g id="edge43" class="edge" data-name="9-&gt;43">
+
+<path fill="none" stroke="black" d="M1309.56,-750.71C1321.66,-741.52 1334.48,-731.79 1346.86,-722.39" style=""/>
+<polygon fill="black" stroke="black" points="1348.73,-725.37 1354.58,-716.54 1344.5,-719.8 1348.73,-725.37" style=""/>
+</g>
+<!-- 11 -->
+<g id="node12" class="node" pointer-events="visible" data-name="11">
+
+<path fill="#d1f9f2" stroke="black" d="M900.85,-587.2C900.85,-587.2 772.41,-587.2 772.41,-587.2 766.41,-587.2 760.41,-581.2 760.41,-575.2 760.41,-575.2 760.41,-507.2 760.41,-507.2 760.41,-501.2 766.41,-495.2 772.41,-495.2 772.41,-495.2 900.85,-495.2 900.85,-495.2 906.85,-495.2 912.85,-501.2 912.85,-507.2 912.85,-507.2 912.85,-575.2 912.85,-575.2 912.85,-581.2 906.85,-587.2 900.85,-587.2" style=""/>
+<text text-anchor="middle" x="836.63" y="-570.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">ageGeneration &lt;= 2.5</text>
+<text text-anchor="middle" x="836.63" y="-553.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.727</text>
+<text text-anchor="middle" x="836.63" y="-537" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 17</text>
+<text text-anchor="middle" x="836.63" y="-520.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [3, 4, 7, 1, 2]</text>
+<text text-anchor="middle" x="836.63" y="-503.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Learning</text>
+</g>
+<!-- 10&#45;&gt;11 -->
+<g id="edge11" class="edge" data-name="10-&gt;11">
+
+<path fill="none" stroke="black" d="M1085.98,-637.7C1036.98,-618.93 974.15,-594.87 923.81,-575.59" style=""/>
+<polygon fill="black" stroke="black" points="925.27,-572.4 914.68,-572.09 922.77,-578.94 925.27,-572.4" style=""/>
+</g>
+<!-- 26 -->
+<g id="node27" class="node" pointer-events="visible" data-name="26">
+
+<path fill="#fdecf9" stroke="black" d="M1225.38,-587.2C1225.38,-587.2 1105.87,-587.2 1105.87,-587.2 1099.87,-587.2 1093.87,-581.2 1093.87,-575.2 1093.87,-575.2 1093.87,-507.2 1093.87,-507.2 1093.87,-501.2 1099.87,-495.2 1105.87,-495.2 1105.87,-495.2 1225.38,-495.2 1225.38,-495.2 1231.38,-495.2 1237.38,-501.2 1237.38,-507.2 1237.38,-507.2 1237.38,-575.2 1237.38,-575.2 1237.38,-581.2 1231.38,-587.2 1225.38,-587.2" style=""/>
+<text text-anchor="middle" x="1165.63" y="-570.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">category &lt;= 0.5</text>
+<text text-anchor="middle" x="1165.63" y="-553.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.785</text>
+<text text-anchor="middle" x="1165.63" y="-537" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 27</text>
+<text text-anchor="middle" x="1165.63" y="-520.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [4, 4, 5, 6, 8]</text>
+<text text-anchor="middle" x="1165.63" y="-503.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Social</text>
+</g>
+<!-- 10&#45;&gt;26 -->
+<g id="edge26" class="edge" data-name="10-&gt;26">
+
+<path fill="none" stroke="black" d="M1165.63,-622.71C1165.63,-615.04 1165.63,-606.99 1165.63,-599.07" style=""/>
+<polygon fill="black" stroke="black" points="1169.13,-599.14 1165.63,-589.14 1162.13,-599.14 1169.13,-599.14" style=""/>
+</g>
+<!-- 12 -->
+<g id="node13" class="node" pointer-events="visible" data-name="12">
+
+<path fill="#eefce6" stroke="black" d="M537.85,-459.2C537.85,-459.2 409.41,-459.2 409.41,-459.2 403.41,-459.2 397.41,-453.2 397.41,-447.2 397.41,-447.2 397.41,-379.2 397.41,-379.2 397.41,-373.2 403.41,-367.2 409.41,-367.2 409.41,-367.2 537.85,-367.2 537.85,-367.2 543.85,-367.2 549.85,-373.2 549.85,-379.2 549.85,-379.2 549.85,-447.2 549.85,-447.2 549.85,-453.2 543.85,-459.2 537.85,-459.2" style=""/>
+<text text-anchor="middle" x="473.63" y="-442.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">ageGeneration &lt;= 1.5</text>
+<text text-anchor="middle" x="473.63" y="-425.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.744</text>
+<text text-anchor="middle" x="473.63" y="-409" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 11</text>
+<text text-anchor="middle" x="473.63" y="-392.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [2, 4, 3, 1, 1]</text>
+<text text-anchor="middle" x="473.63" y="-375.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Health</text>
+</g>
+<!-- 11&#45;&gt;12 -->
+<g id="edge12" class="edge" data-name="11-&gt;12">
+
+<path fill="none" stroke="black" d="M760.05,-498.76C757.22,-497.52 754.41,-496.33 751.63,-495.2 689.5,-470.01 616.66,-449.08 561.12,-434.81" style=""/>
+<polygon fill="black" stroke="black" points="562.28,-431.5 551.72,-432.42 560.55,-438.28 562.28,-431.5" style=""/>
+</g>
+<!-- 23 -->
+<g id="node24" class="node" pointer-events="visible" data-name="23">
+
+<path fill="#88efdc" stroke="black" d="M855.38,-459.2C855.38,-459.2 735.87,-459.2 735.87,-459.2 729.87,-459.2 723.87,-453.2 723.87,-447.2 723.87,-447.2 723.87,-379.2 723.87,-379.2 723.87,-373.2 729.87,-367.2 735.87,-367.2 735.87,-367.2 855.38,-367.2 855.38,-367.2 861.38,-367.2 867.38,-373.2 867.38,-379.2 867.38,-379.2 867.38,-447.2 867.38,-447.2 867.38,-453.2 861.38,-459.2 855.38,-459.2" style=""/>
+<text text-anchor="middle" x="795.63" y="-442.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">category &lt;= 1.0</text>
+<text text-anchor="middle" x="795.63" y="-425.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.5</text>
+<text text-anchor="middle" x="795.63" y="-409" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 6</text>
+<text text-anchor="middle" x="795.63" y="-392.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [1, 0, 4, 0, 1]</text>
+<text text-anchor="middle" x="795.63" y="-375.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Learning</text>
+</g>
+<!-- 11&#45;&gt;23 -->
+<g id="edge23" class="edge" data-name="11-&gt;23">
+
+<path fill="none" stroke="black" d="M821.82,-494.71C819.27,-486.86 816.59,-478.62 813.95,-470.52" style=""/>
+<polygon fill="black" stroke="black" points="817.3,-469.49 810.87,-461.06 810.64,-471.65 817.3,-469.49" style=""/>
+</g>
+<!-- 13 -->
+<g id="node14" class="node" pointer-events="visible" data-name="13">
+
+<path fill="#ffffff" stroke="black" d="M372.38,-331.2C372.38,-331.2 252.87,-331.2 252.87,-331.2 246.87,-331.2 240.87,-325.2 240.87,-319.2 240.87,-319.2 240.87,-251.2 240.87,-251.2 240.87,-245.2 246.87,-239.2 252.87,-239.2 252.87,-239.2 372.38,-239.2 372.38,-239.2 378.38,-239.2 384.38,-245.2 384.38,-251.2 384.38,-251.2 384.38,-319.2 384.38,-319.2 384.38,-325.2 378.38,-331.2 372.38,-331.2" style=""/>
+<text text-anchor="middle" x="312.63" y="-314.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">category &lt;= 1.5</text>
+<text text-anchor="middle" x="312.63" y="-297.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.64</text>
+<text text-anchor="middle" x="312.63" y="-281" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 5</text>
+<text text-anchor="middle" x="312.63" y="-264.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [0, 2, 2, 1, 0]</text>
+<text text-anchor="middle" x="312.63" y="-247.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Health</text>
+</g>
+<!-- 12&#45;&gt;13 -->
+<g id="edge13" class="edge" data-name="12-&gt;13">
+
+<path fill="none" stroke="black" d="M415.5,-366.71C403.87,-357.61 391.57,-347.98 379.67,-338.67" style=""/>
+<polygon fill="black" stroke="black" points="381.89,-335.96 371.86,-332.55 377.57,-341.47 381.89,-335.96" style=""/>
+</g>
+<!-- 18 -->
+<g id="node19" class="node" pointer-events="visible" data-name="18">
+
+<path fill="#ffffff" stroke="black" d="M533.38,-331.2C533.38,-331.2 413.87,-331.2 413.87,-331.2 407.87,-331.2 401.87,-325.2 401.87,-319.2 401.87,-319.2 401.87,-251.2 401.87,-251.2 401.87,-245.2 407.87,-239.2 413.87,-239.2 413.87,-239.2 533.38,-239.2 533.38,-239.2 539.38,-239.2 545.38,-245.2 545.38,-251.2 545.38,-251.2 545.38,-319.2 545.38,-319.2 545.38,-325.2 539.38,-331.2 533.38,-331.2" style=""/>
+<text text-anchor="middle" x="473.63" y="-314.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">category &lt;= 0.5</text>
+<text text-anchor="middle" x="473.63" y="-297.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.722</text>
+<text text-anchor="middle" x="473.63" y="-281" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 6</text>
+<text text-anchor="middle" x="473.63" y="-264.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [2, 2, 1, 0, 1]</text>
+<text text-anchor="middle" x="473.63" y="-247.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Finances</text>
+</g>
+<!-- 12&#45;&gt;18 -->
+<g id="edge18" class="edge" data-name="12-&gt;18">
+
+<path fill="none" stroke="black" d="M473.63,-366.71C473.63,-359.04 473.63,-350.99 473.63,-343.07" style=""/>
+<polygon fill="black" stroke="black" points="477.13,-343.14 473.63,-333.14 470.13,-343.14 477.13,-343.14" style=""/>
+</g>
+<!-- 14 -->
+<g id="node15" class="node" pointer-events="visible" data-name="14">
+
+<path fill="#9cf2e2" stroke="black" d="M211.38,-203.2C211.38,-203.2 91.87,-203.2 91.87,-203.2 85.87,-203.2 79.87,-197.2 79.87,-191.2 79.87,-191.2 79.87,-123.2 79.87,-123.2 79.87,-117.2 85.87,-111.2 91.87,-111.2 91.87,-111.2 211.38,-111.2 211.38,-111.2 217.38,-111.2 223.38,-117.2 223.38,-123.2 223.38,-123.2 223.38,-191.2 223.38,-191.2 223.38,-197.2 217.38,-203.2 211.38,-203.2" style=""/>
+<text text-anchor="middle" x="151.63" y="-186.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">category &lt;= 0.5</text>
+<text text-anchor="middle" x="151.63" y="-169.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.444</text>
+<text text-anchor="middle" x="151.63" y="-153" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 3</text>
+<text text-anchor="middle" x="151.63" y="-136.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [0, 1, 2, 0, 0]</text>
+<text text-anchor="middle" x="151.63" y="-119.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Learning</text>
+</g>
+<!-- 13&#45;&gt;14 -->
+<g id="edge14" class="edge" data-name="13-&gt;14">
+
+<path fill="none" stroke="black" d="M254.5,-238.71C242.87,-229.61 230.57,-219.98 218.67,-210.67" style=""/>
+<polygon fill="black" stroke="black" points="220.89,-207.96 210.86,-204.55 216.57,-213.47 220.89,-207.96" style=""/>
+</g>
+<!-- 17 -->
+<g id="node18" class="node" pointer-events="visible" data-name="17">
+
+<path fill="#ffffff" stroke="black" d="M372.38,-194.9C372.38,-194.9 252.87,-194.9 252.87,-194.9 246.87,-194.9 240.87,-188.9 240.87,-182.9 240.87,-182.9 240.87,-131.5 240.87,-131.5 240.87,-125.5 246.87,-119.5 252.87,-119.5 252.87,-119.5 372.38,-119.5 372.38,-119.5 378.38,-119.5 384.38,-125.5 384.38,-131.5 384.38,-131.5 384.38,-182.9 384.38,-182.9 384.38,-188.9 378.38,-194.9 372.38,-194.9" style=""/>
+<text text-anchor="middle" x="312.63" y="-178.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.5</text>
+<text text-anchor="middle" x="312.63" y="-161.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 2</text>
+<text text-anchor="middle" x="312.63" y="-144.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [0, 1, 0, 1, 0]</text>
+<text text-anchor="middle" x="312.63" y="-127.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Health</text>
+</g>
+<!-- 13&#45;&gt;17 -->
+<g id="edge17" class="edge" data-name="13-&gt;17">
+
+<path fill="none" stroke="black" d="M312.63,-238.71C312.63,-228.25 312.63,-217.1 312.63,-206.53" style=""/>
+<polygon fill="black" stroke="black" points="316.13,-206.86 312.63,-196.86 309.13,-206.86 316.13,-206.86" style=""/>
+</g>
+<!-- 15 -->
+<g id="node16" class="node" pointer-events="visible" data-name="15">
+
+<path fill="#ffffff" stroke="black" d="M131.38,-75.3C131.38,-75.3 11.87,-75.3 11.87,-75.3 5.87,-75.3 -0.13,-69.3 -0.13,-63.3 -0.13,-63.3 -0.13,-11.9 -0.13,-11.9 -0.13,-5.9 5.87,0.1 11.87,0.1 11.87,0.1 131.38,0.1 131.38,0.1 137.38,0.1 143.38,-5.9 143.38,-11.9 143.38,-11.9 143.38,-63.3 143.38,-63.3 143.38,-69.3 137.38,-75.3 131.38,-75.3" style=""/>
+<text text-anchor="middle" x="71.63" y="-58.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.5</text>
+<text text-anchor="middle" x="71.63" y="-41.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 2</text>
+<text text-anchor="middle" x="71.63" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [0, 1, 1, 0, 0]</text>
+<text text-anchor="middle" x="71.63" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Health</text>
+</g>
+<!-- 14&#45;&gt;15 -->
+<g id="edge15" class="edge" data-name="14-&gt;15">
+
+<path fill="none" stroke="black" d="M120.7,-110.73C114.95,-102.28 108.93,-93.44 103.16,-84.96" style=""/>
+<polygon fill="black" stroke="black" points="106.15,-83.13 97.63,-76.83 100.36,-87.07 106.15,-83.13" style=""/>
+</g>
+<!-- 16 -->
+<g id="node17" class="node" pointer-events="visible" data-name="16">
+
+<path fill="#39e5c5" stroke="black" d="M292.38,-75.3C292.38,-75.3 172.87,-75.3 172.87,-75.3 166.87,-75.3 160.87,-69.3 160.87,-63.3 160.87,-63.3 160.87,-11.9 160.87,-11.9 160.87,-5.9 166.87,0.1 172.87,0.1 172.87,0.1 292.38,0.1 292.38,0.1 298.38,0.1 304.38,-5.9 304.38,-11.9 304.38,-11.9 304.38,-63.3 304.38,-63.3 304.38,-69.3 298.38,-75.3 292.38,-75.3" style=""/>
+<text text-anchor="middle" x="232.63" y="-58.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.0</text>
+<text text-anchor="middle" x="232.63" y="-41.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 1</text>
+<text text-anchor="middle" x="232.63" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [0, 0, 1, 0, 0]</text>
+<text text-anchor="middle" x="232.63" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Learning</text>
+</g>
+<!-- 14&#45;&gt;16 -->
+<g id="edge16" class="edge" data-name="14-&gt;16">
+
+<path fill="none" stroke="black" d="M182.94,-110.73C188.76,-102.28 194.85,-93.44 200.69,-84.96" style=""/>
+<polygon fill="black" stroke="black" points="203.51,-87.05 206.3,-76.83 197.74,-83.08 203.51,-87.05" style=""/>
+</g>
+<!-- 19 -->
+<g id="node20" class="node" pointer-events="visible" data-name="19">
+
+<path fill="#ffffff" stroke="black" d="M533.38,-194.9C533.38,-194.9 413.87,-194.9 413.87,-194.9 407.87,-194.9 401.87,-188.9 401.87,-182.9 401.87,-182.9 401.87,-131.5 401.87,-131.5 401.87,-125.5 407.87,-119.5 413.87,-119.5 413.87,-119.5 533.38,-119.5 533.38,-119.5 539.38,-119.5 545.38,-125.5 545.38,-131.5 545.38,-131.5 545.38,-182.9 545.38,-182.9 545.38,-188.9 539.38,-194.9 533.38,-194.9" style=""/>
+<text text-anchor="middle" x="473.63" y="-178.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.5</text>
+<text text-anchor="middle" x="473.63" y="-161.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 2</text>
+<text text-anchor="middle" x="473.63" y="-144.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [1, 0, 0, 0, 1]</text>
+<text text-anchor="middle" x="473.63" y="-127.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Finances</text>
+</g>
+<!-- 18&#45;&gt;19 -->
+<g id="edge19" class="edge" data-name="18-&gt;19">
+
+<path fill="none" stroke="black" d="M473.63,-238.71C473.63,-228.25 473.63,-217.1 473.63,-206.53" style=""/>
+<polygon fill="black" stroke="black" points="477.13,-206.86 473.63,-196.86 470.13,-206.86 477.13,-206.86" style=""/>
+</g>
+<!-- 20 -->
+<g id="node21" class="node" pointer-events="visible" data-name="20">
+
+<path fill="#d3f6bd" stroke="black" d="M694.38,-203.2C694.38,-203.2 574.87,-203.2 574.87,-203.2 568.87,-203.2 562.87,-197.2 562.87,-191.2 562.87,-191.2 562.87,-123.2 562.87,-123.2 562.87,-117.2 568.87,-111.2 574.87,-111.2 574.87,-111.2 694.38,-111.2 694.38,-111.2 700.38,-111.2 706.38,-117.2 706.38,-123.2 706.38,-123.2 706.38,-191.2 706.38,-191.2 706.38,-197.2 700.38,-203.2 694.38,-203.2" style=""/>
+<text text-anchor="middle" x="634.63" y="-186.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">category &lt;= 1.5</text>
+<text text-anchor="middle" x="634.63" y="-169.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.625</text>
+<text text-anchor="middle" x="634.63" y="-153" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 4</text>
+<text text-anchor="middle" x="634.63" y="-136.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [1, 2, 1, 0, 0]</text>
+<text text-anchor="middle" x="634.63" y="-119.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Health</text>
+</g>
+<!-- 18&#45;&gt;20 -->
+<g id="edge20" class="edge" data-name="18-&gt;20">
+
+<path fill="none" stroke="black" d="M531.75,-238.71C543.38,-229.61 555.68,-219.98 567.58,-210.67" style=""/>
+<polygon fill="black" stroke="black" points="569.68,-213.47 575.39,-204.55 565.36,-207.96 569.68,-213.47" style=""/>
+</g>
+<!-- 21 -->
+<g id="node22" class="node" pointer-events="visible" data-name="21">
+
+<path fill="#7be539" stroke="black" d="M614.38,-75.3C614.38,-75.3 494.87,-75.3 494.87,-75.3 488.87,-75.3 482.87,-69.3 482.87,-63.3 482.87,-63.3 482.87,-11.9 482.87,-11.9 482.87,-5.9 488.87,0.1 494.87,0.1 494.87,0.1 614.38,0.1 614.38,0.1 620.38,0.1 626.38,-5.9 626.38,-11.9 626.38,-11.9 626.38,-63.3 626.38,-63.3 626.38,-69.3 620.38,-75.3 614.38,-75.3" style=""/>
+<text text-anchor="middle" x="554.63" y="-58.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.0</text>
+<text text-anchor="middle" x="554.63" y="-41.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 2</text>
+<text text-anchor="middle" x="554.63" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [0, 2, 0, 0, 0]</text>
+<text text-anchor="middle" x="554.63" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Health</text>
+</g>
+<!-- 20&#45;&gt;21 -->
+<g id="edge21" class="edge" data-name="20-&gt;21">
+
+<path fill="none" stroke="black" d="M603.7,-110.73C597.95,-102.28 591.93,-93.44 586.16,-84.96" style=""/>
+<polygon fill="black" stroke="black" points="589.15,-83.13 580.63,-76.83 583.36,-87.07 589.15,-83.13" style=""/>
+</g>
+<!-- 22 -->
+<g id="node23" class="node" pointer-events="visible" data-name="22">
+
+<path fill="#ffffff" stroke="black" d="M775.38,-75.3C775.38,-75.3 655.87,-75.3 655.87,-75.3 649.87,-75.3 643.87,-69.3 643.87,-63.3 643.87,-63.3 643.87,-11.9 643.87,-11.9 643.87,-5.9 649.87,0.1 655.87,0.1 655.87,0.1 775.38,0.1 775.38,0.1 781.38,0.1 787.38,-5.9 787.38,-11.9 787.38,-11.9 787.38,-63.3 787.38,-63.3 787.38,-69.3 781.38,-75.3 775.38,-75.3" style=""/>
+<text text-anchor="middle" x="715.63" y="-58.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.5</text>
+<text text-anchor="middle" x="715.63" y="-41.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 2</text>
+<text text-anchor="middle" x="715.63" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [1, 0, 1, 0, 0]</text>
+<text text-anchor="middle" x="715.63" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Finances</text>
+</g>
+<!-- 20&#45;&gt;22 -->
+<g id="edge22" class="edge" data-name="20-&gt;22">
+
+<path fill="none" stroke="black" d="M665.94,-110.73C671.76,-102.28 677.85,-93.44 683.69,-84.96" style=""/>
+<polygon fill="black" stroke="black" points="686.51,-87.05 689.3,-76.83 680.74,-83.08 686.51,-87.05" style=""/>
+</g>
+<!-- 24 -->
+<g id="node25" class="node" pointer-events="visible" data-name="24">
+
+<path fill="#9cf2e2" stroke="black" d="M694.38,-322.9C694.38,-322.9 574.87,-322.9 574.87,-322.9 568.87,-322.9 562.87,-316.9 562.87,-310.9 562.87,-310.9 562.87,-259.5 562.87,-259.5 562.87,-253.5 568.87,-247.5 574.87,-247.5 574.87,-247.5 694.38,-247.5 694.38,-247.5 700.38,-247.5 706.38,-253.5 706.38,-259.5 706.38,-259.5 706.38,-310.9 706.38,-310.9 706.38,-316.9 700.38,-322.9 694.38,-322.9" style=""/>
+<text text-anchor="middle" x="634.63" y="-306.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.444</text>
+<text text-anchor="middle" x="634.63" y="-289.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 3</text>
+<text text-anchor="middle" x="634.63" y="-272.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [0, 0, 2, 0, 1]</text>
+<text text-anchor="middle" x="634.63" y="-255.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Learning</text>
+</g>
+<!-- 23&#45;&gt;24 -->
+<g id="edge24" class="edge" data-name="23-&gt;24">
+
+<path fill="none" stroke="black" d="M737.5,-366.71C722.29,-354.81 705.92,-342 690.82,-330.18" style=""/>
+<polygon fill="black" stroke="black" points="693.31,-327.68 683.28,-324.28 689,-333.2 693.31,-327.68" style=""/>
+</g>
+<!-- 25 -->
+<g id="node26" class="node" pointer-events="visible" data-name="25">
+
+<path fill="#9cf2e2" stroke="black" d="M855.38,-322.9C855.38,-322.9 735.87,-322.9 735.87,-322.9 729.87,-322.9 723.87,-316.9 723.87,-310.9 723.87,-310.9 723.87,-259.5 723.87,-259.5 723.87,-253.5 729.87,-247.5 735.87,-247.5 735.87,-247.5 855.38,-247.5 855.38,-247.5 861.38,-247.5 867.38,-253.5 867.38,-259.5 867.38,-259.5 867.38,-310.9 867.38,-310.9 867.38,-316.9 861.38,-322.9 855.38,-322.9" style=""/>
+<text text-anchor="middle" x="795.63" y="-306.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.444</text>
+<text text-anchor="middle" x="795.63" y="-289.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 3</text>
+<text text-anchor="middle" x="795.63" y="-272.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [1, 0, 2, 0, 0]</text>
+<text text-anchor="middle" x="795.63" y="-255.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Learning</text>
+</g>
+<!-- 23&#45;&gt;25 -->
+<g id="edge25" class="edge" data-name="23-&gt;25">
+
+<path fill="none" stroke="black" d="M795.63,-366.71C795.63,-356.25 795.63,-345.1 795.63,-334.53" style=""/>
+<polygon fill="black" stroke="black" points="799.13,-334.86 795.63,-324.86 792.13,-334.86 799.13,-334.86" style=""/>
+</g>
+<!-- 27 -->
+<g id="node28" class="node" pointer-events="visible" data-name="27">
+
+<path fill="#c7c6f8" stroke="black" d="M1184.85,-459.2C1184.85,-459.2 1056.41,-459.2 1056.41,-459.2 1050.41,-459.2 1044.41,-453.2 1044.41,-447.2 1044.41,-447.2 1044.41,-379.2 1044.41,-379.2 1044.41,-373.2 1050.41,-367.2 1056.41,-367.2 1056.41,-367.2 1184.85,-367.2 1184.85,-367.2 1190.85,-367.2 1196.85,-373.2 1196.85,-379.2 1196.85,-379.2 1196.85,-447.2 1196.85,-447.2 1196.85,-453.2 1190.85,-459.2 1184.85,-459.2" style=""/>
+<text text-anchor="middle" x="1120.63" y="-442.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">ageGeneration &lt;= 1.5</text>
+<text text-anchor="middle" x="1120.63" y="-425.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.716</text>
+<text text-anchor="middle" x="1120.63" y="-409" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 9</text>
+<text text-anchor="middle" x="1120.63" y="-392.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [1, 1, 2, 4, 1]</text>
+<text text-anchor="middle" x="1120.63" y="-375.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Productivity</text>
+</g>
+<!-- 26&#45;&gt;27 -->
+<g id="edge27" class="edge" data-name="26-&gt;27">
+
+<path fill="none" stroke="black" d="M1149.38,-494.71C1146.54,-486.77 1143.56,-478.43 1140.64,-470.24" style=""/>
+<polygon fill="black" stroke="black" points="1144.02,-469.29 1137.36,-461.05 1137.42,-471.64 1144.02,-469.29" style=""/>
+</g>
+<!-- 32 -->
+<g id="node33" class="node" pointer-events="visible" data-name="32">
+
+<path fill="#f8caee" stroke="black" d="M1354.85,-459.2C1354.85,-459.2 1226.41,-459.2 1226.41,-459.2 1220.41,-459.2 1214.41,-453.2 1214.41,-447.2 1214.41,-447.2 1214.41,-379.2 1214.41,-379.2 1214.41,-373.2 1220.41,-367.2 1226.41,-367.2 1226.41,-367.2 1354.85,-367.2 1354.85,-367.2 1360.85,-367.2 1366.85,-373.2 1366.85,-379.2 1366.85,-379.2 1366.85,-447.2 1366.85,-447.2 1366.85,-453.2 1360.85,-459.2 1354.85,-459.2" style=""/>
+<text text-anchor="middle" x="1290.63" y="-442.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">ageGeneration &lt;= 1.5</text>
+<text text-anchor="middle" x="1290.63" y="-425.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.753</text>
+<text text-anchor="middle" x="1290.63" y="-409" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 18</text>
+<text text-anchor="middle" x="1290.63" y="-392.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [3, 3, 3, 2, 7]</text>
+<text text-anchor="middle" x="1290.63" y="-375.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Social</text>
+</g>
+<!-- 26&#45;&gt;32 -->
+<g id="edge32" class="edge" data-name="26-&gt;32">
+
+<path fill="none" stroke="black" d="M1210.75,-494.71C1219.43,-485.97 1228.59,-476.74 1237.49,-467.77" style=""/>
+<polygon fill="black" stroke="black" points="1239.94,-470.26 1244.5,-460.7 1234.97,-465.33 1239.94,-470.26" style=""/>
+</g>
+<!-- 28 -->
+<g id="node29" class="node" pointer-events="visible" data-name="28">
+
+<path fill="#ffffff" stroke="black" d="M1016.38,-322.9C1016.38,-322.9 896.87,-322.9 896.87,-322.9 890.87,-322.9 884.87,-316.9 884.87,-310.9 884.87,-310.9 884.87,-259.5 884.87,-259.5 884.87,-253.5 890.87,-247.5 896.87,-247.5 896.87,-247.5 1016.38,-247.5 1016.38,-247.5 1022.38,-247.5 1028.38,-253.5 1028.38,-259.5 1028.38,-259.5 1028.38,-310.9 1028.38,-310.9 1028.38,-316.9 1022.38,-322.9 1016.38,-322.9" style=""/>
+<text text-anchor="middle" x="956.63" y="-306.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.667</text>
+<text text-anchor="middle" x="956.63" y="-289.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 3</text>
+<text text-anchor="middle" x="956.63" y="-272.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [0, 0, 1, 1, 1]</text>
+<text text-anchor="middle" x="956.63" y="-255.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Learning</text>
+</g>
+<!-- 27&#45;&gt;28 -->
+<g id="edge28" class="edge" data-name="27-&gt;28">
+
+<path fill="none" stroke="black" d="M1061.42,-366.71C1045.92,-354.81 1029.25,-342 1013.86,-330.18" style=""/>
+<polygon fill="black" stroke="black" points="1016.23,-327.58 1006.17,-324.27 1011.97,-333.13 1016.23,-327.58" style=""/>
+</g>
+<!-- 29 -->
+<g id="node30" class="node" pointer-events="visible" data-name="29">
+
+<path fill="#b1b0f5" stroke="black" d="M1186.85,-331.2C1186.85,-331.2 1058.41,-331.2 1058.41,-331.2 1052.41,-331.2 1046.41,-325.2 1046.41,-319.2 1046.41,-319.2 1046.41,-251.2 1046.41,-251.2 1046.41,-245.2 1052.41,-239.2 1058.41,-239.2 1058.41,-239.2 1186.85,-239.2 1186.85,-239.2 1192.85,-239.2 1198.85,-245.2 1198.85,-251.2 1198.85,-251.2 1198.85,-319.2 1198.85,-319.2 1198.85,-325.2 1192.85,-331.2 1186.85,-331.2" style=""/>
+<text text-anchor="middle" x="1122.63" y="-314.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">ageGeneration &lt;= 2.5</text>
+<text text-anchor="middle" x="1122.63" y="-297.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.667</text>
+<text text-anchor="middle" x="1122.63" y="-281" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 6</text>
+<text text-anchor="middle" x="1122.63" y="-264.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [1, 1, 1, 3, 0]</text>
+<text text-anchor="middle" x="1122.63" y="-247.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Productivity</text>
+</g>
+<!-- 27&#45;&gt;29 -->
+<g id="edge29" class="edge" data-name="27-&gt;29">
+
+<path fill="none" stroke="black" d="M1121.35,-366.71C1121.47,-359.04 1121.6,-350.99 1121.72,-343.07" style=""/>
+<polygon fill="black" stroke="black" points="1125.22,-343.19 1121.88,-333.14 1118.22,-343.08 1125.22,-343.19" style=""/>
+</g>
+<!-- 30 -->
+<g id="node31" class="node" pointer-events="visible" data-name="30">
+
+<path fill="#ffffff" stroke="black" d="M984.38,-194.9C984.38,-194.9 864.87,-194.9 864.87,-194.9 858.87,-194.9 852.87,-188.9 852.87,-182.9 852.87,-182.9 852.87,-131.5 852.87,-131.5 852.87,-125.5 858.87,-119.5 864.87,-119.5 864.87,-119.5 984.38,-119.5 984.38,-119.5 990.38,-119.5 996.38,-125.5 996.38,-131.5 996.38,-131.5 996.38,-182.9 996.38,-182.9 996.38,-188.9 990.38,-194.9 984.38,-194.9" style=""/>
+<text text-anchor="middle" x="924.63" y="-178.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.5</text>
+<text text-anchor="middle" x="924.63" y="-161.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 2</text>
+<text text-anchor="middle" x="924.63" y="-144.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [1, 0, 0, 1, 0]</text>
+<text text-anchor="middle" x="924.63" y="-127.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Finances</text>
+</g>
+<!-- 29&#45;&gt;30 -->
+<g id="edge30" class="edge" data-name="29-&gt;30">
+
+<path fill="none" stroke="black" d="M1051.14,-238.71C1032.09,-226.59 1011.56,-213.52 992.69,-201.51" style=""/>
+<polygon fill="black" stroke="black" points="994.59,-198.57 984.27,-196.16 990.83,-204.48 994.59,-198.57" style=""/>
+</g>
+<!-- 31 -->
+<g id="node32" class="node" pointer-events="visible" data-name="31">
+
+<path fill="#bebdf6" stroke="black" d="M1145.38,-194.9C1145.38,-194.9 1025.87,-194.9 1025.87,-194.9 1019.87,-194.9 1013.87,-188.9 1013.87,-182.9 1013.87,-182.9 1013.87,-131.5 1013.87,-131.5 1013.87,-125.5 1019.87,-119.5 1025.87,-119.5 1025.87,-119.5 1145.38,-119.5 1145.38,-119.5 1151.38,-119.5 1157.38,-125.5 1157.38,-131.5 1157.38,-131.5 1157.38,-182.9 1157.38,-182.9 1157.38,-188.9 1151.38,-194.9 1145.38,-194.9" style=""/>
+<text text-anchor="middle" x="1085.63" y="-178.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.625</text>
+<text text-anchor="middle" x="1085.63" y="-161.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 4</text>
+<text text-anchor="middle" x="1085.63" y="-144.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [0, 1, 1, 2, 0]</text>
+<text text-anchor="middle" x="1085.63" y="-127.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Productivity</text>
+</g>
+<!-- 29&#45;&gt;31 -->
+<g id="edge31" class="edge" data-name="29-&gt;31">
+
+<path fill="none" stroke="black" d="M1109.27,-238.71C1106.16,-228.14 1102.85,-216.86 1099.72,-206.19" style=""/>
+<polygon fill="black" stroke="black" points="1103.14,-205.4 1096.96,-196.8 1096.42,-207.38 1103.14,-205.4" style=""/>
+</g>
+<!-- 33 -->
+<g id="node34" class="node" pointer-events="visible" data-name="33">
+
+<path fill="#f8e0ce" stroke="black" d="M1350.38,-331.2C1350.38,-331.2 1230.87,-331.2 1230.87,-331.2 1224.87,-331.2 1218.87,-325.2 1218.87,-319.2 1218.87,-319.2 1218.87,-251.2 1218.87,-251.2 1218.87,-245.2 1224.87,-239.2 1230.87,-239.2 1230.87,-239.2 1350.38,-239.2 1350.38,-239.2 1356.38,-239.2 1362.38,-245.2 1362.38,-251.2 1362.38,-251.2 1362.38,-319.2 1362.38,-319.2 1362.38,-325.2 1356.38,-331.2 1350.38,-331.2" style=""/>
+<text text-anchor="middle" x="1290.63" y="-314.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">category &lt;= 1.5</text>
+<text text-anchor="middle" x="1290.63" y="-297.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.72</text>
+<text text-anchor="middle" x="1290.63" y="-281" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 5</text>
+<text text-anchor="middle" x="1290.63" y="-264.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [2, 0, 1, 1, 1]</text>
+<text text-anchor="middle" x="1290.63" y="-247.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Finances</text>
+</g>
+<!-- 32&#45;&gt;33 -->
+<g id="edge33" class="edge" data-name="32-&gt;33">
+
+<path fill="none" stroke="black" d="M1290.63,-366.71C1290.63,-359.04 1290.63,-350.99 1290.63,-343.07" style=""/>
+<polygon fill="black" stroke="black" points="1294.13,-343.14 1290.63,-333.14 1287.13,-343.14 1294.13,-343.14" style=""/>
+</g>
+<!-- 36 -->
+<g id="node37" class="node" pointer-events="visible" data-name="36">
+
+<path fill="#f7c4ec" stroke="black" d="M1557.85,-331.2C1557.85,-331.2 1429.41,-331.2 1429.41,-331.2 1423.41,-331.2 1417.41,-325.2 1417.41,-319.2 1417.41,-319.2 1417.41,-251.2 1417.41,-251.2 1417.41,-245.2 1423.41,-239.2 1429.41,-239.2 1429.41,-239.2 1557.85,-239.2 1557.85,-239.2 1563.85,-239.2 1569.85,-245.2 1569.85,-251.2 1569.85,-251.2 1569.85,-319.2 1569.85,-319.2 1569.85,-325.2 1563.85,-331.2 1557.85,-331.2" style=""/>
+<text text-anchor="middle" x="1493.63" y="-314.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">ageGeneration &lt;= 2.5</text>
+<text text-anchor="middle" x="1493.63" y="-297.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.698</text>
+<text text-anchor="middle" x="1493.63" y="-281" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 13</text>
+<text text-anchor="middle" x="1493.63" y="-264.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [1, 3, 2, 1, 6]</text>
+<text text-anchor="middle" x="1493.63" y="-247.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Social</text>
+</g>
+<!-- 32&#45;&gt;36 -->
+<g id="edge36" class="edge" data-name="32-&gt;36">
+
+<path fill="none" stroke="black" d="M1363.91,-366.71C1379.15,-357.25 1395.31,-347.23 1410.86,-337.57" style=""/>
+<polygon fill="black" stroke="black" points="1412.51,-340.67 1419.16,-332.42 1408.82,-334.72 1412.51,-340.67" style=""/>
+</g>
+<!-- 34 -->
+<g id="node35" class="node" pointer-events="visible" data-name="34">
+
+<path fill="#ffffff" stroke="black" d="M1306.38,-194.9C1306.38,-194.9 1186.87,-194.9 1186.87,-194.9 1180.87,-194.9 1174.87,-188.9 1174.87,-182.9 1174.87,-182.9 1174.87,-131.5 1174.87,-131.5 1174.87,-125.5 1180.87,-119.5 1186.87,-119.5 1186.87,-119.5 1306.38,-119.5 1306.38,-119.5 1312.38,-119.5 1318.38,-125.5 1318.38,-131.5 1318.38,-131.5 1318.38,-182.9 1318.38,-182.9 1318.38,-188.9 1312.38,-194.9 1306.38,-194.9" style=""/>
+<text text-anchor="middle" x="1246.63" y="-178.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.667</text>
+<text text-anchor="middle" x="1246.63" y="-161.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 3</text>
+<text text-anchor="middle" x="1246.63" y="-144.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [1, 0, 1, 1, 0]</text>
+<text text-anchor="middle" x="1246.63" y="-127.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Finances</text>
+</g>
+<!-- 33&#45;&gt;34 -->
+<g id="edge34" class="edge" data-name="33-&gt;34">
+
+<path fill="none" stroke="black" d="M1274.74,-238.71C1271.05,-228.14 1267.11,-216.86 1263.38,-206.19" style=""/>
+<polygon fill="black" stroke="black" points="1266.7,-205.06 1260.1,-196.77 1260.09,-207.37 1266.7,-205.06" style=""/>
+</g>
+<!-- 35 -->
+<g id="node36" class="node" pointer-events="visible" data-name="35">
+
+<path fill="#ffffff" stroke="black" d="M1467.38,-194.9C1467.38,-194.9 1347.87,-194.9 1347.87,-194.9 1341.87,-194.9 1335.87,-188.9 1335.87,-182.9 1335.87,-182.9 1335.87,-131.5 1335.87,-131.5 1335.87,-125.5 1341.87,-119.5 1347.87,-119.5 1347.87,-119.5 1467.38,-119.5 1467.38,-119.5 1473.38,-119.5 1479.38,-125.5 1479.38,-131.5 1479.38,-131.5 1479.38,-182.9 1479.38,-182.9 1479.38,-188.9 1473.38,-194.9 1467.38,-194.9" style=""/>
+<text text-anchor="middle" x="1407.63" y="-178.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.5</text>
+<text text-anchor="middle" x="1407.63" y="-161.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 2</text>
+<text text-anchor="middle" x="1407.63" y="-144.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [1, 0, 0, 0, 1]</text>
+<text text-anchor="middle" x="1407.63" y="-127.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Finances</text>
+</g>
+<!-- 33&#45;&gt;35 -->
+<g id="edge35" class="edge" data-name="33-&gt;35">
+
+<path fill="none" stroke="black" d="M1332.87,-238.71C1343.5,-227.25 1354.92,-214.96 1365.56,-203.51" style=""/>
+<polygon fill="black" stroke="black" points="1367.87,-206.16 1372.1,-196.45 1362.74,-201.4 1367.87,-206.16" style=""/>
+</g>
+<!-- 37 -->
+<g id="node38" class="node" pointer-events="visible" data-name="37">
+
+<path fill="#fbe3f6" stroke="black" d="M1628.38,-203.2C1628.38,-203.2 1508.87,-203.2 1508.87,-203.2 1502.87,-203.2 1496.87,-197.2 1496.87,-191.2 1496.87,-191.2 1496.87,-123.2 1496.87,-123.2 1496.87,-117.2 1502.87,-111.2 1508.87,-111.2 1508.87,-111.2 1628.38,-111.2 1628.38,-111.2 1634.38,-111.2 1640.38,-117.2 1640.38,-123.2 1640.38,-123.2 1640.38,-191.2 1640.38,-191.2 1640.38,-197.2 1634.38,-203.2 1628.38,-203.2" style=""/>
+<text text-anchor="middle" x="1568.63" y="-186.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">category &lt;= 1.5</text>
+<text text-anchor="middle" x="1568.63" y="-169.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.7</text>
+<text text-anchor="middle" x="1568.63" y="-153" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 10</text>
+<text text-anchor="middle" x="1568.63" y="-136.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [1, 3, 2, 0, 4]</text>
+<text text-anchor="middle" x="1568.63" y="-119.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Social</text>
+</g>
+<!-- 36&#45;&gt;37 -->
+<g id="edge37" class="edge" data-name="36-&gt;37">
+
+<path fill="none" stroke="black" d="M1520.7,-238.71C1525.59,-230.5 1530.73,-221.86 1535.76,-213.42" style=""/>
+<polygon fill="black" stroke="black" points="1538.71,-215.31 1540.81,-204.92 1532.69,-211.73 1538.71,-215.31" style=""/>
+</g>
+<!-- 40 -->
+<g id="node41" class="node" pointer-events="visible" data-name="40">
+
+<path fill="#f29ce0" stroke="black" d="M1789.38,-203.2C1789.38,-203.2 1669.87,-203.2 1669.87,-203.2 1663.87,-203.2 1657.87,-197.2 1657.87,-191.2 1657.87,-191.2 1657.87,-123.2 1657.87,-123.2 1657.87,-117.2 1663.87,-111.2 1669.87,-111.2 1669.87,-111.2 1789.38,-111.2 1789.38,-111.2 1795.38,-111.2 1801.38,-117.2 1801.38,-123.2 1801.38,-123.2 1801.38,-191.2 1801.38,-191.2 1801.38,-197.2 1795.38,-203.2 1789.38,-203.2" style=""/>
+<text text-anchor="middle" x="1729.63" y="-186.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">category &lt;= 1.5</text>
+<text text-anchor="middle" x="1729.63" y="-169.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.444</text>
+<text text-anchor="middle" x="1729.63" y="-153" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 3</text>
+<text text-anchor="middle" x="1729.63" y="-136.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [0, 0, 0, 1, 2]</text>
+<text text-anchor="middle" x="1729.63" y="-119.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Social</text>
+</g>
+<!-- 36&#45;&gt;40 -->
+<g id="edge40" class="edge" data-name="36-&gt;40">
+
+<path fill="none" stroke="black" d="M1570.05,-243.66C1572.94,-242.15 1575.81,-240.66 1578.63,-239.2 1607.22,-224.38 1616.73,-220.53 1647.86,-204.08" style=""/>
+<polygon fill="black" stroke="black" points="1649.23,-207.32 1656.41,-199.53 1645.94,-201.14 1649.23,-207.32" style=""/>
+</g>
+<!-- 38 -->
+<g id="node39" class="node" pointer-events="visible" data-name="38">
+
+<path fill="#ffffff" stroke="black" d="M1467.38,-75.3C1467.38,-75.3 1347.87,-75.3 1347.87,-75.3 1341.87,-75.3 1335.87,-69.3 1335.87,-63.3 1335.87,-63.3 1335.87,-11.9 1335.87,-11.9 1335.87,-5.9 1341.87,0.1 1347.87,0.1 1347.87,0.1 1467.38,0.1 1467.38,0.1 1473.38,0.1 1479.38,-5.9 1479.38,-11.9 1479.38,-11.9 1479.38,-63.3 1479.38,-63.3 1479.38,-69.3 1473.38,-75.3 1467.38,-75.3" style=""/>
+<text text-anchor="middle" x="1407.63" y="-58.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.688</text>
+<text text-anchor="middle" x="1407.63" y="-41.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 8</text>
+<text text-anchor="middle" x="1407.63" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [1, 3, 1, 0, 3]</text>
+<text text-anchor="middle" x="1407.63" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Health</text>
+</g>
+<!-- 37&#45;&gt;38 -->
+<g id="edge38" class="edge" data-name="37-&gt;38">
+
+<path fill="none" stroke="black" d="M1506.38,-110.73C1493.63,-101.42 1480.24,-91.64 1467.58,-82.39" style=""/>
+<polygon fill="black" stroke="black" points="1469.87,-79.73 1459.73,-76.66 1465.74,-85.38 1469.87,-79.73" style=""/>
+</g>
+<!-- 39 -->
+<g id="node40" class="node" pointer-events="visible" data-name="39">
+
+<path fill="#ffffff" stroke="black" d="M1628.38,-75.3C1628.38,-75.3 1508.87,-75.3 1508.87,-75.3 1502.87,-75.3 1496.87,-69.3 1496.87,-63.3 1496.87,-63.3 1496.87,-11.9 1496.87,-11.9 1496.87,-5.9 1502.87,0.1 1508.87,0.1 1508.87,0.1 1628.38,0.1 1628.38,0.1 1634.38,0.1 1640.38,-5.9 1640.38,-11.9 1640.38,-11.9 1640.38,-63.3 1640.38,-63.3 1640.38,-69.3 1634.38,-75.3 1628.38,-75.3" style=""/>
+<text text-anchor="middle" x="1568.63" y="-58.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.5</text>
+<text text-anchor="middle" x="1568.63" y="-41.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 2</text>
+<text text-anchor="middle" x="1568.63" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [0, 0, 1, 0, 1]</text>
+<text text-anchor="middle" x="1568.63" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Learning</text>
+</g>
+<!-- 37&#45;&gt;39 -->
+<g id="edge39" class="edge" data-name="37-&gt;39">
+
+<path fill="none" stroke="black" d="M1568.63,-110.73C1568.63,-102.92 1568.63,-94.77 1568.63,-86.88" style=""/>
+<polygon fill="black" stroke="black" points="1572.13,-87.09 1568.63,-77.09 1565.13,-87.09 1572.13,-87.09" style=""/>
+</g>
+<!-- 41 -->
+<g id="node42" class="node" pointer-events="visible" data-name="41">
+
+<path fill="#e539c0" stroke="black" d="M1789.38,-75.3C1789.38,-75.3 1669.87,-75.3 1669.87,-75.3 1663.87,-75.3 1657.87,-69.3 1657.87,-63.3 1657.87,-63.3 1657.87,-11.9 1657.87,-11.9 1657.87,-5.9 1663.87,0.1 1669.87,0.1 1669.87,0.1 1789.38,0.1 1789.38,0.1 1795.38,0.1 1801.38,-5.9 1801.38,-11.9 1801.38,-11.9 1801.38,-63.3 1801.38,-63.3 1801.38,-69.3 1795.38,-75.3 1789.38,-75.3" style=""/>
+<text text-anchor="middle" x="1729.63" y="-58.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.0</text>
+<text text-anchor="middle" x="1729.63" y="-41.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 1</text>
+<text text-anchor="middle" x="1729.63" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [0, 0, 0, 0, 1]</text>
+<text text-anchor="middle" x="1729.63" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Social</text>
+</g>
+<!-- 40&#45;&gt;41 -->
+<g id="edge41" class="edge" data-name="40-&gt;41">
+
+<path fill="none" stroke="black" d="M1729.63,-110.73C1729.63,-102.92 1729.63,-94.77 1729.63,-86.88" style=""/>
+<polygon fill="black" stroke="black" points="1733.13,-87.09 1729.63,-77.09 1726.13,-87.09 1733.13,-87.09" style=""/>
+</g>
+<!-- 42 -->
+<g id="node43" class="node" pointer-events="visible" data-name="42">
+
+<path fill="#ffffff" stroke="black" d="M1950.38,-75.3C1950.38,-75.3 1830.87,-75.3 1830.87,-75.3 1824.87,-75.3 1818.87,-69.3 1818.87,-63.3 1818.87,-63.3 1818.87,-11.9 1818.87,-11.9 1818.87,-5.9 1824.87,0.1 1830.87,0.1 1830.87,0.1 1950.38,0.1 1950.38,0.1 1956.38,0.1 1962.38,-5.9 1962.38,-11.9 1962.38,-11.9 1962.38,-63.3 1962.38,-63.3 1962.38,-69.3 1956.38,-75.3 1950.38,-75.3" style=""/>
+<text text-anchor="middle" x="1890.63" y="-58.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.5</text>
+<text text-anchor="middle" x="1890.63" y="-41.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 2</text>
+<text text-anchor="middle" x="1890.63" y="-25" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [0, 0, 0, 1, 1]</text>
+<text text-anchor="middle" x="1890.63" y="-8.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Productivity</text>
+</g>
+<!-- 40&#45;&gt;42 -->
+<g id="edge42" class="edge" data-name="40-&gt;42">
+
+<path fill="none" stroke="black" d="M1791.87,-110.73C1804.62,-101.42 1818.01,-91.64 1830.67,-82.39" style=""/>
+<polygon fill="black" stroke="black" points="1832.51,-85.38 1838.52,-76.66 1828.38,-79.73 1832.51,-85.38" style=""/>
+</g>
+<!-- 44 -->
+<g id="node45" class="node" pointer-events="visible" data-name="44">
+
+<path fill="#d8d7fa" stroke="black" d="M1479.85,-587.2C1479.85,-587.2 1351.41,-587.2 1351.41,-587.2 1345.41,-587.2 1339.41,-581.2 1339.41,-575.2 1339.41,-575.2 1339.41,-507.2 1339.41,-507.2 1339.41,-501.2 1345.41,-495.2 1351.41,-495.2 1351.41,-495.2 1479.85,-495.2 1479.85,-495.2 1485.85,-495.2 1491.85,-501.2 1491.85,-507.2 1491.85,-507.2 1491.85,-575.2 1491.85,-575.2 1491.85,-581.2 1485.85,-587.2 1479.85,-587.2" style=""/>
+<text text-anchor="middle" x="1415.63" y="-570.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">ageGeneration &lt;= 1.5</text>
+<text text-anchor="middle" x="1415.63" y="-553.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.653</text>
+<text text-anchor="middle" x="1415.63" y="-537" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 7</text>
+<text text-anchor="middle" x="1415.63" y="-520.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [0, 0, 2, 3, 2]</text>
+<text text-anchor="middle" x="1415.63" y="-503.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Productivity</text>
+</g>
+<!-- 43&#45;&gt;44 -->
+<g id="edge44" class="edge" data-name="43-&gt;44">
+
+<path fill="none" stroke="black" d="M1415.63,-622.71C1415.63,-615.04 1415.63,-606.99 1415.63,-599.07" style=""/>
+<polygon fill="black" stroke="black" points="1419.13,-599.14 1415.63,-589.14 1412.13,-599.14 1419.13,-599.14" style=""/>
+</g>
+<!-- 49 -->
+<g id="node50" class="node" pointer-events="visible" data-name="49">
+
+<path fill="#39e5c5" stroke="black" d="M1641.38,-578.9C1641.38,-578.9 1521.87,-578.9 1521.87,-578.9 1515.87,-578.9 1509.87,-572.9 1509.87,-566.9 1509.87,-566.9 1509.87,-515.5 1509.87,-515.5 1509.87,-509.5 1515.87,-503.5 1521.87,-503.5 1521.87,-503.5 1641.38,-503.5 1641.38,-503.5 1647.38,-503.5 1653.38,-509.5 1653.38,-515.5 1653.38,-515.5 1653.38,-566.9 1653.38,-566.9 1653.38,-572.9 1647.38,-578.9 1641.38,-578.9" style=""/>
+<text text-anchor="middle" x="1581.63" y="-562.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.0</text>
+<text text-anchor="middle" x="1581.63" y="-545.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 1</text>
+<text text-anchor="middle" x="1581.63" y="-528.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [0, 0, 1, 0, 0]</text>
+<text text-anchor="middle" x="1581.63" y="-511.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Learning</text>
+</g>
+<!-- 43&#45;&gt;49 -->
+<g id="edge49" class="edge" data-name="43-&gt;49">
+
+<path fill="none" stroke="black" d="M1475.56,-622.71C1491.24,-610.81 1508.11,-598 1523.69,-586.18" style=""/>
+<polygon fill="black" stroke="black" points="1525.64,-589.09 1531.48,-580.26 1521.4,-583.52 1525.64,-589.09" style=""/>
+</g>
+<!-- 45 -->
+<g id="node46" class="node" pointer-events="visible" data-name="45">
+
+<path fill="#ffffff" stroke="black" d="M1516.38,-450.9C1516.38,-450.9 1396.87,-450.9 1396.87,-450.9 1390.87,-450.9 1384.87,-444.9 1384.87,-438.9 1384.87,-438.9 1384.87,-387.5 1384.87,-387.5 1384.87,-381.5 1390.87,-375.5 1396.87,-375.5 1396.87,-375.5 1516.38,-375.5 1516.38,-375.5 1522.38,-375.5 1528.38,-381.5 1528.38,-387.5 1528.38,-387.5 1528.38,-438.9 1528.38,-438.9 1528.38,-444.9 1522.38,-450.9 1516.38,-450.9" style=""/>
+<text text-anchor="middle" x="1456.63" y="-434.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.667</text>
+<text text-anchor="middle" x="1456.63" y="-417.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 3</text>
+<text text-anchor="middle" x="1456.63" y="-400.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [0, 0, 1, 1, 1]</text>
+<text text-anchor="middle" x="1456.63" y="-383.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Learning</text>
+</g>
+<!-- 44&#45;&gt;45 -->
+<g id="edge45" class="edge" data-name="44-&gt;45">
+
+<path fill="none" stroke="black" d="M1430.43,-494.71C1433.87,-484.14 1437.54,-472.86 1441.01,-462.19" style=""/>
+<polygon fill="black" stroke="black" points="1444.3,-463.38 1444.07,-452.78 1437.65,-461.21 1444.3,-463.38" style=""/>
+</g>
+<!-- 46 -->
+<g id="node47" class="node" pointer-events="visible" data-name="46">
+
+<path fill="#bebdf6" stroke="black" d="M1723.85,-459.2C1723.85,-459.2 1595.41,-459.2 1595.41,-459.2 1589.41,-459.2 1583.41,-453.2 1583.41,-447.2 1583.41,-447.2 1583.41,-379.2 1583.41,-379.2 1583.41,-373.2 1589.41,-367.2 1595.41,-367.2 1595.41,-367.2 1723.85,-367.2 1723.85,-367.2 1729.85,-367.2 1735.85,-373.2 1735.85,-379.2 1735.85,-379.2 1735.85,-447.2 1735.85,-447.2 1735.85,-453.2 1729.85,-459.2 1723.85,-459.2" style=""/>
+<text text-anchor="middle" x="1659.63" y="-442.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">ageGeneration &lt;= 2.5</text>
+<text text-anchor="middle" x="1659.63" y="-425.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.625</text>
+<text text-anchor="middle" x="1659.63" y="-409" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 4</text>
+<text text-anchor="middle" x="1659.63" y="-392.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [0, 0, 1, 2, 1]</text>
+<text text-anchor="middle" x="1659.63" y="-375.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Productivity</text>
+</g>
+<!-- 44&#45;&gt;46 -->
+<g id="edge46" class="edge" data-name="44-&gt;46">
+
+<path fill="none" stroke="black" d="M1492.05,-499.67C1494.94,-498.16 1497.81,-496.66 1500.63,-495.2 1524.08,-483.02 1549.56,-469.96 1573.11,-457.96" style=""/>
+<polygon fill="black" stroke="black" points="1574.4,-461.23 1581.73,-453.58 1571.23,-454.99 1574.4,-461.23" style=""/>
+</g>
+<!-- 47 -->
+<g id="node48" class="node" pointer-events="visible" data-name="47">
+
+<path fill="#3c39e5" stroke="black" d="M1719.38,-322.9C1719.38,-322.9 1599.87,-322.9 1599.87,-322.9 1593.87,-322.9 1587.87,-316.9 1587.87,-310.9 1587.87,-310.9 1587.87,-259.5 1587.87,-259.5 1587.87,-253.5 1593.87,-247.5 1599.87,-247.5 1599.87,-247.5 1719.38,-247.5 1719.38,-247.5 1725.38,-247.5 1731.38,-253.5 1731.38,-259.5 1731.38,-259.5 1731.38,-310.9 1731.38,-310.9 1731.38,-316.9 1725.38,-322.9 1719.38,-322.9" style=""/>
+<text text-anchor="middle" x="1659.63" y="-306.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.0</text>
+<text text-anchor="middle" x="1659.63" y="-289.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 1</text>
+<text text-anchor="middle" x="1659.63" y="-272.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [0, 0, 0, 1, 0]</text>
+<text text-anchor="middle" x="1659.63" y="-255.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Productivity</text>
+</g>
+<!-- 46&#45;&gt;47 -->
+<g id="edge47" class="edge" data-name="46-&gt;47">
+
+<path fill="none" stroke="black" d="M1659.63,-366.71C1659.63,-356.25 1659.63,-345.1 1659.63,-334.53" style=""/>
+<polygon fill="black" stroke="black" points="1663.13,-334.86 1659.63,-324.86 1656.13,-334.86 1663.13,-334.86" style=""/>
+</g>
+<!-- 48 -->
+<g id="node49" class="node" pointer-events="visible" data-name="48">
+
+<path fill="#ffffff" stroke="black" d="M1880.38,-322.9C1880.38,-322.9 1760.87,-322.9 1760.87,-322.9 1754.87,-322.9 1748.87,-316.9 1748.87,-310.9 1748.87,-310.9 1748.87,-259.5 1748.87,-259.5 1748.87,-253.5 1754.87,-247.5 1760.87,-247.5 1760.87,-247.5 1880.38,-247.5 1880.38,-247.5 1886.38,-247.5 1892.38,-253.5 1892.38,-259.5 1892.38,-259.5 1892.38,-310.9 1892.38,-310.9 1892.38,-316.9 1886.38,-322.9 1880.38,-322.9" style=""/>
+<text text-anchor="middle" x="1820.63" y="-306.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.667</text>
+<text text-anchor="middle" x="1820.63" y="-289.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 3</text>
+<text text-anchor="middle" x="1820.63" y="-272.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [0, 0, 1, 1, 1]</text>
+<text text-anchor="middle" x="1820.63" y="-255.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Learning</text>
+</g>
+<!-- 46&#45;&gt;48 -->
+<g id="edge48" class="edge" data-name="46-&gt;48">
+
+<path fill="none" stroke="black" d="M1717.75,-366.71C1732.96,-354.81 1749.33,-342 1764.43,-330.18" style=""/>
+<polygon fill="black" stroke="black" points="1766.25,-333.2 1771.97,-324.28 1761.94,-327.68 1766.25,-333.2" style=""/>
+</g>
+<!-- 51 -->
+<g id="node52" class="node" pointer-events="visible" data-name="51">
+
+<path fill="#d7faf3" stroke="black" d="M1882.38,-843.2C1882.38,-843.2 1762.87,-843.2 1762.87,-843.2 1756.87,-843.2 1750.87,-837.2 1750.87,-831.2 1750.87,-831.2 1750.87,-763.2 1750.87,-763.2 1750.87,-757.2 1756.87,-751.2 1762.87,-751.2 1762.87,-751.2 1882.38,-751.2 1882.38,-751.2 1888.38,-751.2 1894.38,-757.2 1894.38,-763.2 1894.38,-763.2 1894.38,-831.2 1894.38,-831.2 1894.38,-837.2 1888.38,-843.2 1882.38,-843.2" style=""/>
+<text text-anchor="middle" x="1822.63" y="-826.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gender &lt;= 0.5</text>
+<text text-anchor="middle" x="1822.63" y="-809.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.778</text>
+<text text-anchor="middle" x="1822.63" y="-793" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 6</text>
+<text text-anchor="middle" x="1822.63" y="-776.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [1, 1, 2, 1, 1]</text>
+<text text-anchor="middle" x="1822.63" y="-759.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Learning</text>
+</g>
+<!-- 50&#45;&gt;51 -->
+<g id="edge51" class="edge" data-name="50-&gt;51">
+
+<path fill="none" stroke="black" d="M1822.63,-878.71C1822.63,-871.04 1822.63,-862.99 1822.63,-855.07" style=""/>
+<polygon fill="black" stroke="black" points="1826.13,-855.14 1822.63,-845.14 1819.13,-855.14 1826.13,-855.14" style=""/>
+</g>
+<!-- 56 -->
+<g id="node57" class="node" pointer-events="visible" data-name="56">
+
+<path fill="#f8e0ce" stroke="black" d="M2133.85,-843.2C2133.85,-843.2 2005.41,-843.2 2005.41,-843.2 1999.41,-843.2 1993.41,-837.2 1993.41,-831.2 1993.41,-831.2 1993.41,-763.2 1993.41,-763.2 1993.41,-757.2 1999.41,-751.2 2005.41,-751.2 2005.41,-751.2 2133.85,-751.2 2133.85,-751.2 2139.85,-751.2 2145.85,-757.2 2145.85,-763.2 2145.85,-763.2 2145.85,-831.2 2145.85,-831.2 2145.85,-837.2 2139.85,-843.2 2133.85,-843.2" style=""/>
+<text text-anchor="middle" x="2069.63" y="-826.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">ageGeneration &lt;= 2.5</text>
+<text text-anchor="middle" x="2069.63" y="-809.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.49</text>
+<text text-anchor="middle" x="2069.63" y="-793" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 7</text>
+<text text-anchor="middle" x="2069.63" y="-776.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [4, 3, 0, 0, 0]</text>
+<text text-anchor="middle" x="2069.63" y="-759.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Finances</text>
+</g>
+<!-- 50&#45;&gt;56 -->
+<g id="edge56" class="edge" data-name="50-&gt;56">
+
+<path fill="none" stroke="black" d="M1899.09,-885.2C1925.71,-871.61 1955.77,-856.28 1983.15,-842.32" style=""/>
+<polygon fill="black" stroke="black" points="1984.44,-845.59 1991.75,-837.92 1981.25,-839.35 1984.44,-845.59" style=""/>
+</g>
+<!-- 52 -->
+<g id="node53" class="node" pointer-events="visible" data-name="52">
+
+<path fill="#ffffff" stroke="black" d="M1806.85,-715.2C1806.85,-715.2 1678.41,-715.2 1678.41,-715.2 1672.41,-715.2 1666.41,-709.2 1666.41,-703.2 1666.41,-703.2 1666.41,-635.2 1666.41,-635.2 1666.41,-629.2 1672.41,-623.2 1678.41,-623.2 1678.41,-623.2 1806.85,-623.2 1806.85,-623.2 1812.85,-623.2 1818.85,-629.2 1818.85,-635.2 1818.85,-635.2 1818.85,-703.2 1818.85,-703.2 1818.85,-709.2 1812.85,-715.2 1806.85,-715.2" style=""/>
+<text text-anchor="middle" x="1742.63" y="-698.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">ageGeneration &lt;= 0.5</text>
+<text text-anchor="middle" x="1742.63" y="-681.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.75</text>
+<text text-anchor="middle" x="1742.63" y="-665" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 4</text>
+<text text-anchor="middle" x="1742.63" y="-648.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [1, 1, 1, 1, 0]</text>
+<text text-anchor="middle" x="1742.63" y="-631.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Finances</text>
+</g>
+<!-- 51&#45;&gt;52 -->
+<g id="edge52" class="edge" data-name="51-&gt;52">
+
+<path fill="none" stroke="black" d="M1793.74,-750.71C1788.48,-742.41 1782.93,-733.68 1777.51,-725.14" style=""/>
+<polygon fill="black" stroke="black" points="1780.59,-723.47 1772.28,-716.9 1774.68,-727.22 1780.59,-723.47" style=""/>
+</g>
+<!-- 55 -->
+<g id="node56" class="node" pointer-events="visible" data-name="55">
+
+<path fill="#ffffff" stroke="black" d="M1968.38,-706.9C1968.38,-706.9 1848.87,-706.9 1848.87,-706.9 1842.87,-706.9 1836.87,-700.9 1836.87,-694.9 1836.87,-694.9 1836.87,-643.5 1836.87,-643.5 1836.87,-637.5 1842.87,-631.5 1848.87,-631.5 1848.87,-631.5 1968.38,-631.5 1968.38,-631.5 1974.38,-631.5 1980.38,-637.5 1980.38,-643.5 1980.38,-643.5 1980.38,-694.9 1980.38,-694.9 1980.38,-700.9 1974.38,-706.9 1968.38,-706.9" style=""/>
+<text text-anchor="middle" x="1908.63" y="-690.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.5</text>
+<text text-anchor="middle" x="1908.63" y="-673.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 2</text>
+<text text-anchor="middle" x="1908.63" y="-656.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [0, 0, 1, 0, 1]</text>
+<text text-anchor="middle" x="1908.63" y="-639.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Learning</text>
+</g>
+<!-- 51&#45;&gt;55 -->
+<g id="edge55" class="edge" data-name="51-&gt;55">
+
+<path fill="none" stroke="black" d="M1853.67,-750.71C1861.19,-739.7 1869.24,-727.91 1876.79,-716.84" style=""/>
+<polygon fill="black" stroke="black" points="1879.67,-718.83 1882.42,-708.59 1873.89,-714.88 1879.67,-718.83" style=""/>
+</g>
+<!-- 53 -->
+<g id="node54" class="node" pointer-events="visible" data-name="53">
+
+<path fill="#ffffff" stroke="black" d="M1802.38,-578.9C1802.38,-578.9 1682.87,-578.9 1682.87,-578.9 1676.87,-578.9 1670.87,-572.9 1670.87,-566.9 1670.87,-566.9 1670.87,-515.5 1670.87,-515.5 1670.87,-509.5 1676.87,-503.5 1682.87,-503.5 1682.87,-503.5 1802.38,-503.5 1802.38,-503.5 1808.38,-503.5 1814.38,-509.5 1814.38,-515.5 1814.38,-515.5 1814.38,-566.9 1814.38,-566.9 1814.38,-572.9 1808.38,-578.9 1802.38,-578.9" style=""/>
+<text text-anchor="middle" x="1742.63" y="-562.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.667</text>
+<text text-anchor="middle" x="1742.63" y="-545.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 3</text>
+<text text-anchor="middle" x="1742.63" y="-528.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [1, 0, 1, 1, 0]</text>
+<text text-anchor="middle" x="1742.63" y="-511.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Finances</text>
+</g>
+<!-- 52&#45;&gt;53 -->
+<g id="edge53" class="edge" data-name="52-&gt;53">
+
+<path fill="none" stroke="black" d="M1742.63,-622.71C1742.63,-612.25 1742.63,-601.1 1742.63,-590.53" style=""/>
+<polygon fill="black" stroke="black" points="1746.13,-590.86 1742.63,-580.86 1739.13,-590.86 1746.13,-590.86" style=""/>
+</g>
+<!-- 54 -->
+<g id="node55" class="node" pointer-events="visible" data-name="54">
+
+<path fill="#7be539" stroke="black" d="M1963.38,-578.9C1963.38,-578.9 1843.87,-578.9 1843.87,-578.9 1837.87,-578.9 1831.87,-572.9 1831.87,-566.9 1831.87,-566.9 1831.87,-515.5 1831.87,-515.5 1831.87,-509.5 1837.87,-503.5 1843.87,-503.5 1843.87,-503.5 1963.38,-503.5 1963.38,-503.5 1969.38,-503.5 1975.38,-509.5 1975.38,-515.5 1975.38,-515.5 1975.38,-566.9 1975.38,-566.9 1975.38,-572.9 1969.38,-578.9 1963.38,-578.9" style=""/>
+<text text-anchor="middle" x="1903.63" y="-562.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.0</text>
+<text text-anchor="middle" x="1903.63" y="-545.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 1</text>
+<text text-anchor="middle" x="1903.63" y="-528.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [0, 1, 0, 0, 0]</text>
+<text text-anchor="middle" x="1903.63" y="-511.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Health</text>
+</g>
+<!-- 52&#45;&gt;54 -->
+<g id="edge54" class="edge" data-name="52-&gt;54">
+
+<path fill="none" stroke="black" d="M1800.75,-622.71C1815.96,-610.81 1832.33,-598 1847.43,-586.18" style=""/>
+<polygon fill="black" stroke="black" points="1849.25,-589.2 1854.97,-580.28 1844.94,-583.68 1849.25,-589.2" style=""/>
+</g>
+<!-- 57 -->
+<g id="node58" class="node" pointer-events="visible" data-name="57">
+
+<path fill="#e58139" stroke="black" d="M2129.38,-706.9C2129.38,-706.9 2009.87,-706.9 2009.87,-706.9 2003.87,-706.9 1997.87,-700.9 1997.87,-694.9 1997.87,-694.9 1997.87,-643.5 1997.87,-643.5 1997.87,-637.5 2003.87,-631.5 2009.87,-631.5 2009.87,-631.5 2129.38,-631.5 2129.38,-631.5 2135.38,-631.5 2141.38,-637.5 2141.38,-643.5 2141.38,-643.5 2141.38,-694.9 2141.38,-694.9 2141.38,-700.9 2135.38,-706.9 2129.38,-706.9" style=""/>
+<text text-anchor="middle" x="2069.63" y="-690.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.0</text>
+<text text-anchor="middle" x="2069.63" y="-673.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 2</text>
+<text text-anchor="middle" x="2069.63" y="-656.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [2, 0, 0, 0, 0]</text>
+<text text-anchor="middle" x="2069.63" y="-639.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Finances</text>
+</g>
+<!-- 56&#45;&gt;57 -->
+<g id="edge57" class="edge" data-name="56-&gt;57">
+
+<path fill="none" stroke="black" d="M2069.63,-750.71C2069.63,-740.25 2069.63,-729.1 2069.63,-718.53" style=""/>
+<polygon fill="black" stroke="black" points="2073.13,-718.86 2069.63,-708.86 2066.13,-718.86 2073.13,-718.86" style=""/>
+</g>
+<!-- 58 -->
+<g id="node59" class="node" pointer-events="visible" data-name="58">
+
+<path fill="#d3f6bd" stroke="black" d="M2290.38,-706.9C2290.38,-706.9 2170.87,-706.9 2170.87,-706.9 2164.87,-706.9 2158.87,-700.9 2158.87,-694.9 2158.87,-694.9 2158.87,-643.5 2158.87,-643.5 2158.87,-637.5 2164.87,-631.5 2170.87,-631.5 2170.87,-631.5 2290.38,-631.5 2290.38,-631.5 2296.38,-631.5 2302.38,-637.5 2302.38,-643.5 2302.38,-643.5 2302.38,-694.9 2302.38,-694.9 2302.38,-700.9 2296.38,-706.9 2290.38,-706.9" style=""/>
+<text text-anchor="middle" x="2230.63" y="-690.2" font-family="Helvetica,sans-Serif" font-size="14.00" style="">gini = 0.48</text>
+<text text-anchor="middle" x="2230.63" y="-673.4" font-family="Helvetica,sans-Serif" font-size="14.00" style="">samples = 5</text>
+<text text-anchor="middle" x="2230.63" y="-656.6" font-family="Helvetica,sans-Serif" font-size="14.00" style="">value = [2, 3, 0, 0, 0]</text>
+<text text-anchor="middle" x="2230.63" y="-639.8" font-family="Helvetica,sans-Serif" font-size="14.00" style="">class = Health</text>
+</g>
+<!-- 56&#45;&gt;58 -->
+<g id="edge58" class="edge" data-name="56-&gt;58">
+
+<path fill="none" stroke="black" d="M2127.75,-750.71C2142.96,-738.81 2159.33,-726 2174.43,-714.18" style=""/>
+<polygon fill="black" stroke="black" points="2176.25,-717.2 2181.97,-708.28 2171.94,-711.68 2176.25,-717.2" style=""/>
+</g>
+</g>
+</svg>
